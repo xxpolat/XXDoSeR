@@ -4,8 +4,8 @@ Today I will tell you how a website was crashed.
 
 # Installation
 
-chmod +x ddos_test.py
-./ddos_test.py
+chmod +x main.py
+./main.py
 
 python3 main.py
 
